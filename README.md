@@ -1,6 +1,6 @@
 # C Piscine @ 42Adelaide
 
-This repository contains coding developed at [42Adelaide's](https://www.42adel.org.au) C bootcamp (also known 
+This repository contains code developed at [42Adelaide's](https://www.42adel.org.au) C bootcamp (also known 
 as `Piscine`), from 10/01/2022 to 06/02/2022.
 
 ## About 42
